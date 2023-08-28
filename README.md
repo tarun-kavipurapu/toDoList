@@ -1,6 +1,5 @@
-Sure, here's the Markdown code for the provided JavaScript code:
 
-```markdown
+
 # Express MongoDB Todo App
 
 This is a simple Express.js application that interacts with a MongoDB database to manage todos. It includes routes to get all todos, get a specific todo by ID, create a new todo, and delete a todo.
@@ -62,8 +61,6 @@ The project has the following folder structure:
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
+## Also Removed Config.env file for security reasons create your own env file
 Make sure to replace `<repository-url>` with the actual URL of the repository if applicable. Also, update the MongoDB Atlas URI in the `mongoose.connect()` function call with your own URI.
