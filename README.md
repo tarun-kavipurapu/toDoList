@@ -1,7 +1,6 @@
+# Express MongoDB , ReactTodo App
 
-
-# Express MongoDB Todo App
-
+![Alt text](image.png)
 This is a simple Express.js application that interacts with a MongoDB database to manage todos. It includes routes to get all todos, get a specific todo by ID, create a new todo, and delete a todo.
 
 ## Prerequisites
@@ -11,6 +10,8 @@ Before running the application, make sure you have the following installed:
 - Node.js
 - npm (Node Package Manager)
 - MongoDB Atlas URI (Replace the URI in the code with your own)
+- React js for Frontend
+- Also used Tailwind
 
 ## Installation
 
@@ -61,6 +62,8 @@ The project has the following folder structure:
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
 ## License
+
 ```
 ## Also Removed Config.env file for security reasons create your own env file
 Make sure to replace `<repository-url>` with the actual URL of the repository if applicable. Also, update the MongoDB Atlas URI in the `mongoose.connect()` function call with your own URI.
+```
